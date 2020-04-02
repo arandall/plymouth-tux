@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Tux Plymouth
+Description=A Plymouth of Tux with a mix of Yosemite
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/tux
+ScriptFile=/usr/share/plymouth/themes/tux/tux.script
